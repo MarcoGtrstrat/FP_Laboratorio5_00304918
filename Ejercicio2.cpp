@@ -17,9 +17,7 @@ int main(){
 		x=y;//1 1 2
 		y=z;//1 2 3
 	}
-	
-	cout<<"\n";
-	system("pause");
+
 	return 0;
 }
 
